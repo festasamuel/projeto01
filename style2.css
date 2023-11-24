@@ -3,11 +3,12 @@
 }
 
 .cabecalho{
-    border: 3px
-    border-styler: dashed
+    border: 3px;
+    border-radius: 15px;
     border-color: red
+    background-color:rgb(57, 40, 44);
+    color: white;
     
-
 
 }
 
